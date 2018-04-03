@@ -1,0 +1,22 @@
+{
+  "name": "knorr/legacy-mpdf",
+  "license": "GPL-2.0",
+  "description": "LEGACY VERSION 5.1! A PHP class to generate PDF files from HTML.",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Ian Back",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=4.3.10",
+    "ext-mbstring": "*"
+  },
+  "autoload": {
+    "classmap": [
+      "mpdf.php",
+      "classes"
+    ]
+  }
+}
