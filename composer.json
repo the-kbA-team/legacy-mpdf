@@ -1,7 +1,7 @@
 {
   "name": "kba-team/legacy-mpdf",
   "license": "GPL-2.0",
-  "description": "LEGACY VERSION 5.1! A PHP class to generate PDF files from HTML.",
+  "description": "LEGACY VERSION 5.4! A PHP class to generate PDF files from HTML.",
   "type": "library",
   "authors": [
     {

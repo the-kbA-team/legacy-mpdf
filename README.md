@@ -1,4 +1,4 @@
-# Legacy mPDF 5.1 library
+# Legacy mPDF 5.4 library
 
 A PHP class to generate PDF files from HTML.
 
@@ -8,7 +8,7 @@ A PHP class to generate PDF files from HTML.
 
 
 ```bash
-composer require kba-team/legacy-mpdf:'~5.1'
+composer require kba-team/legacy-mpdf:'5.4'
 ```
 
 [mpdf]: https://mpdf.github.io/
