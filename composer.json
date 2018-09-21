@@ -18,5 +18,17 @@
       "mpdf.php",
       "classes"
     ]
+  },
+  "scripts": {
+    "post-install-cmd": [
+      "@set-permissions",
+      "@cleanup"
+    ],
+    "post-update-cmd": [
+      "@set-permissions",
+      "@cleanup"
+    ],
+    "set-permissions": "chmod ugo+w ttfontdata/ tmp/ graph_cache/",
+    "cleanup": "rm -Rf ttfontdata/* tmp/* graph_cache/*"
   }
 }
