@@ -2,7 +2,7 @@ examples/               export-ignore
 .gitattributes          export-ignore
 ADDED INFO FONTS.txt    export-ignore
 CHANGELOG.txt           export-ignore
-composer.json           export-ignore
+composer.*              export-ignore
 CREDITS.txt             export-ignore
 FONT INFO.txt           export-ingore
 LICENSE.txt             export-ignore
